@@ -1,0 +1,17 @@
+.media-div {}
+
+.liked-button {
+    color: rgb(31, 149, 247);
+}
+
+.loved-button {
+    color: rgb(248, 86, 218);
+}
+
+.liked {
+    visibility: hidden;
+}
+
+.loved {
+    visibility: hidden;
+}
